@@ -135,11 +135,21 @@ h6,
   height: 80px;
   z-index: 1;
 }
+.row gx-3 h-100{
+  width: 300px;
+  height: 150px;
+}
 .img-fluid {
-  width: 199em;
-  height: 200px;
+  width: 300px;
+  height: auto;
   margin-left: 50px;
 }
+.lg{
+  width: 200px;
+  height: 200px;
+  margin-left: -20px;
+}
+
 .navbar .navbar-nav .nav-link {
   margin-right: 35px;
   padding: 20px 0;
